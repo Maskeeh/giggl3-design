@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+body{
+	background-color: #121212;
+	color: #eee;
+	margin:0;
+	font-family: "Noto Sans","Segoe WP",sans-serif, serif;
+}
+.container{
+	padding:1.5em;
+}
+.navbar{
+	background-color: #2a2a2a;
+	padding: 0.5em 1.25em 0.5em 1.25em;
+	border-bottom: 1px #1d1d1d solid;
+	font-size:1.25em;
+}
+.navbar-logo{
+	vertical-align:middle;
+	font-size:1.75em;
+}
+.navbar-content{
+	padding:1em;
+	vertical-align:middle;
+}
+.pp{
+	right:1em;
+	vertical-align:middle;
+	height:1.75em;
+	border:2px solid #11f011;
+	border-radius: 100%;
+}

@@ -1,0 +1,35 @@
+.container{
+	font-family:"Noto Sans",sans-serif;
+}
+.content{
+	font-size:1.25em;
+}
+.menu-ul{
+	list-style-type: none;
+}
+.menu{
+	color:#555;
+	font-size:1.12em;
+	margin-right:3em;
+	border-right: #333333 1.75px solid;
+}
+.recommended{
+	margin-left:2em;
+	padding-left: 1em;
+	border-left: #333333 1.75px solid;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+#pp{
+	vertical-align:middle;
+	height:1.35em;
+	background-color:#fff;
+	border: white 2px solid;
+	border-radius:50%;
+}
